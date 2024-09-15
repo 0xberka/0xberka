@@ -16,3 +16,6 @@
 		<img align="center" src="https://profile-counter.glitch.me/{droubarka}/count.svg"/>
 	</p>
 </div>
+
+<!-- Buy Me a Coffee -->
+[![Buy Me a Coffee](https://github.com/droubarka/droubarka/buymeacoffee.gif)](https://buymeacoffee.com/droubarka)
