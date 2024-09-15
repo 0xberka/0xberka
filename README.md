@@ -8,3 +8,11 @@
 	<img alt="Oubarka's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&rank_icon=github&card_width=441"/>
 </div>
 </a>
+
+<!-- Visits -->
+<div align="center">
+	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
+	<p align="center">
+		<img align="center" src="https://profile-counter.glitch.me/{droubarka}/count.svg"/>
+	</p>
+</div>
