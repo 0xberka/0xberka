@@ -15,7 +15,7 @@
 	<picture align="left">
 	</picture>
 	<picture align="right">
-		<img src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&hide_border=true&theme=github_dark" width="49%"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%"/>
 	</picture>
 </div>
 
