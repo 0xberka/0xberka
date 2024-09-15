@@ -1,10 +1,10 @@
 <!-- Visits -->
 <div align="center">
-	<br/>
 	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
 	<p align="center">
 		<img align="center" src="https://profile-counter.glitch.me/droubarka/count.svg"/>
 	</p>
+	<br/>
 </div>
 
 <!-- Contribution Graph -->
@@ -18,4 +18,5 @@
 </a>
 
 <!-- Buy Me a Coffee -->
+<br/>
 [![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://buymeacoffee.com/droubarka)
