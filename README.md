@@ -10,6 +10,16 @@
 <!-- Contribution Graph -->
 [![Oubarka's Activity Graph.](https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark)](https://github.com/droubarka/droubarka)
 
+
+<div align="center">
+	<picture align="left">
+	</picture>
+	<picture align="right">
+		<img src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&hide_border=true&theme=github_dark" width="49%"/>
+	</picture>
+</div>
+
+
 <a href="https://github.com/droubarka/droubarka" style="text-decoration: none;">
 	<div align="center" style="display: flex;">
 		<img alt="Oubarka's GitHub Streak." src="https://streak-stats.demolab.com?user=droubarka&theme=react&card_width=400"/>
