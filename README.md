@@ -20,4 +20,5 @@
 <!-- Buy Me a Coffee -->
 <a href="https://www.buymeacoffee.com/droubarka">
 	<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=droubarka&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"/>
+	<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=droubarka&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/>
 </a>
