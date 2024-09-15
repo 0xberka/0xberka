@@ -13,10 +13,10 @@
 
 <div align="center">
 	<picture align="left">
-		<source alt="Oubarka's GitHub Streak." src="https://streak-stats.demolab.com?user=droubarka&theme=react&card_width=400"/>
+		<img alt="Oubarka's GitHub Streak." src="https://streak-stats.demolab.com?user=droubarka&theme=react&card_width=400"/>
 	</picture>
 	<picture align="right">
-		<source alt="Oubarka's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&rank_icon=github&card_width=441"/>
+		<img alt="Oubarka's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&rank_icon=github&card_width=441"/>
 	</picture>
 </div>
 
