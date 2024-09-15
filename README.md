@@ -18,4 +18,4 @@
 </div>
 
 <!-- Buy Me a Coffee -->
-[![Buy Me a Coffee](https://github.com/droubarka/droubarka/buymeacoffee.gif)](https://buymeacoffee.com/droubarka)
+[![Buy Me a Coffee](https://github.com/droubarka/droubarka/blob/main/buymeacoffee.gif)](https://buymeacoffee.com/droubarka)
