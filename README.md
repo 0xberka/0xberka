@@ -12,9 +12,9 @@
 
 
 <div align="center">
-	<picture align="left">
+	<!--picture align="left">
 		<img src="https://streak-stats.demolab.com?user=droubarka&hide_border=true&theme=dark" width="47%"/>
-	</picture>
+	</picture-->
 	<picture align="right">
 		<img src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="49%"/>
 	</picture>
