@@ -1,5 +1,5 @@
 <!-- Visits -->
-[![](https://komarev.com/ghpvc/?username=droubarka&base=32&style=flat&color=blue&label=PROFILE+VIEWS)]()
+[![](https://komarev.com/ghpvc/?username=droubarka&base=32&style=flat&color=blue&label=Visitors)]()
 <!--
 <div align="center">
 	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
