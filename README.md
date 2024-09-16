@@ -12,8 +12,8 @@
 
 <a href="https://github.com/droubarka/droubarka" style="text-decoration: none;">
 	<div align="center" style="display: flex;">
-		<img alt="Oubarka's GitHub Streak." src="https://streak-stats.demolab.com?user=droubarka&theme=dark&card_width=400"/>
-		<img alt="Oubarka's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=dark&rank_icon=github&card_width=441"/>
+		<img alt="Oubarka's GitHub Streak." src="https://streak-stats.demolab.com?user=droubarka&theme=green&card_width=400"/>
+		<img alt="Oubarka's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=green&rank_icon=github&card_width=441"/>
 	</div>
 	<br/>
 </a>
