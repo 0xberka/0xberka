@@ -9,6 +9,7 @@
 
 <!-- Contribution Graph -->
 [![Oubarka's Activity Graph.](https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark)](https://github.com/droubarka/droubarka)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=droubarka&theme=react&hide_border=true)
 
 <a href="https://github.com/droubarka/droubarka" style="text-decoration: none;">
 	<div align="center" style="display: flex;">
