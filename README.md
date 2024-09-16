@@ -12,8 +12,14 @@
 -->
 
 <!-- Contribution Graph -->
-[![Oubarka's Activity Graph.](https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark)](https://github.com/droubarka/droubarka)
+<div align="center">
+	<picture>
+		<source srcset="https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark&area=true&hide_border=true&hide_title=false&custom_title=Oubarka's+Contribution+Graph&radius=16" media="(prefers-color-scheme: dark)" />
+		<img src="" />
+	</picture>
+</div>
 
+<!-- Profile Summary -->
 <div align="center">
 	<picture align="left">
 		<source width="47%" srcset="https://streak-stats.demolab.com?user=droubarka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
