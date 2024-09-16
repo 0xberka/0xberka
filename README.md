@@ -13,17 +13,17 @@
 
 <!-- Contribution Graph -->
 [![Oubarka's Activity Graph.](https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark)](https://github.com/droubarka/droubarka)
+
 <h2>UPDATED</h2>
 <div align="center">
 	<picture align="left">
-		<source srcset="https://streak-stats.demolab.com?user=droubarka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
-		<source srcset="" media="(prefers-color-scheme: ligth), (prefers-color-scheme: no-preference)" />
+		<source width="47%" srcset="https://streak-stats.demolab.com?user=droubarka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
 		<img src="" />
 	</picture>
 	<picture align="left">
-		<source srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: dark)" />
-	    <source srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	    <img src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" />
+		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: dark)" />
+	    <source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" />
 	</picture>
 </div>
 
