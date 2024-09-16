@@ -20,9 +20,9 @@
 		<img src="" />
 	</picture>
 	<picture align="left">
-		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: dark)" />
-	    <source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" />
+		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" media="(prefers-color-scheme: dark)" />
+	    <source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" />
 	</picture>
 </div>
 
