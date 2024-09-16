@@ -20,7 +20,7 @@
 </div>
 
 <!-- Profile Summary -->
-<div align="center">
+<div align="center" border="1px">
 	<picture align="left">
 		<source width="47%" srcset="https://streak-stats.demolab.com?user=droubarka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
 		<img src="" />
