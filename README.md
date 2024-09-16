@@ -1,5 +1,6 @@
 <!-- Visits -->
-[![](https://komarev.com/ghpvc/?username=droubarka&base=32&style=flat&color=blue&label=Visitors)]()
+[![](https://komarev.com/ghpvc/?username=droubarka&style=flat&color=blue&label=Visitors&base=123)](https://github.com/droubarka/droubarka)
+
 <!--
 <div align="center">
 	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
@@ -12,6 +13,12 @@
 
 <!-- Contribution Graph -->
 [![Oubarka's Activity Graph.](https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark)](https://github.com/droubarka/droubarka)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=droubarka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000)](https://github.com/droubarka/droubarka)
+
+[![](https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&rank_icon=github&card_width=441")]()
+
+
 
 <a href="https://github.com/droubarka/droubarka" style="text-decoration: none;">
 	<div align="center" style="display: flex;">
