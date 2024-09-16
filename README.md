@@ -1,4 +1,6 @@
 <!-- Visits -->
+[![](https://komarev.com/ghpvc/?username=droubarka&base=32&style=flat&color=blue&label=PROFILE+VIEWS)]()
+<!--
 <div align="center">
 	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
 	<p align="center">
@@ -6,6 +8,7 @@
 	</p>
 	<br/>
 </div>
+-->
 
 <!-- Contribution Graph -->
 [![Oubarka's Activity Graph.](https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark)](https://github.com/droubarka/droubarka)
