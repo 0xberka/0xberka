@@ -20,7 +20,7 @@
 		<source srcset="" media="(prefers-color-scheme: ligth), (prefers-color-scheme: no-preference)" />
 		<img src="" />
 	</picture>
-	<picture align="right">
+	<picture align="left">
 		<source srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: dark)" />
 	    <source srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 	    <img src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats" />
