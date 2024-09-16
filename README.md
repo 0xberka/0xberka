@@ -14,7 +14,7 @@
 <!-- Contribution Graph -->
 <div align="center">
 	<picture>
-		<source srcset="https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark&area=true&hide_border=true&hide_title=false&custom_title=Oubarka's+Contribution+Graph&radius=16" media="(prefers-color-scheme: dark)" />
+		<source srcset="https://github-readme-activity-graph.vercel.app/graph?username=droubarka&theme=react-dark&area=true&hide_border=false&hide_title=false&custom_title=Oubarka's+Contribution+Graph&radius=16" media="(prefers-color-scheme: dark)" />
 		<img src="" />
 	</picture>
 </div>
