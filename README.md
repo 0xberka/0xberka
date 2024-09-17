@@ -1,5 +1,5 @@
 <!-- Visits -->
-[![](https://komarev.com/ghpvc/?username=droubarka&style=flat&color=blue&label=Visitors&base=0)](https://github.com/droubarka/droubarka)
+[![Visitors](https://komarev.com/ghpvc/?username=droubarka&style=flat&color=blue&label=Visitors&base=0)](https://github.com/droubarka/droubarka)
 <!--
 <div align="center">
 	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
@@ -9,6 +9,8 @@
 	<br/>
 </div>
 -->
+<!-- Buy Me a Coffee -->
+[![Buy me a coffee](https://img.shields.io/badge/BY%20ME%20-%20A%20COFFEE-brown?style=flat-square&logo=coffeescript)](https://buymeacoffee.com/droubarka)
 
 <!-- Contribution Graph -->
 <div align="center">
@@ -30,6 +32,3 @@
 	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" />
 	</picture>
 </div>
-
-<!-- Buy Me a Coffee -->
-[![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://buymeacoffee.com/droubarka)
