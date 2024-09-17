@@ -8,6 +8,7 @@
 	</a>
 	<a href="https://github.com/droubarka/keynox">
 		<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
+	</a>
 	<br><br>
 </div>
 
