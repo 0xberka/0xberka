@@ -9,13 +9,6 @@
 	<br><br>
 </div>
 
-<!-- Dark Mode -->
-<picture>
-	<source srcset="" media="(prefers-color-scheme: dark)" />
-	<source srcset="images/sw-dark-mode.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	<img src="images/sw-dark-mode.png" />
-</picture>
-
 <!-- Contribution Graph -->
 <div align="center">
 	<picture>
