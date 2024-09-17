@@ -6,6 +6,8 @@
 	<a href="https://buymeacoffee.com/droubarka">
 		<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
 	</a>
+	<a href="https://github.com/droubarka/keynox">
+		<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
 	<br><br>
 </div>
 
