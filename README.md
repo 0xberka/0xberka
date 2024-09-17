@@ -23,8 +23,8 @@
 <div align="center">
 	<picture align="left">
 		<source width="47%" srcset="https://streak-stats.demolab.com?user=droubarka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
-		<source width="47%" srcset="https://streak-stats.demolab.com?user=droubarka" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-		<img width="47%" src="https://streak-stats.demolab.com?user=droubarka" />
+		<source width="47%" srcset="https://streak-stats.demolab.com?user=droubarka&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+		<img width="47%" src="https://streak-stats.demolab.com?user=droubarka&hide_border=true" />
 	</picture>
 	<!picture align="left">
 		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" media="(prefers-color-scheme: dark)" />
