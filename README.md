@@ -5,6 +5,7 @@
 	<a href="https://buymeacoffee.com/droubarka">
 		<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
 	</a>
+	<br>
 </div>
 
 <!--
