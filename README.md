@@ -1,6 +1,5 @@
 <!-- Visits -->
-[![](https://komarev.com/ghpvc/?username=droubarka&style=flat&color=blue&label=Visitors&base=123)](https://github.com/droubarka/droubarka)
-
+[![](https://komarev.com/ghpvc/?username=droubarka&style=flat&color=blue&label=Visitors&base=0)](https://github.com/droubarka/droubarka)
 <!--
 <div align="center">
 	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
@@ -20,7 +19,7 @@
 </div>
 
 <!-- Profile Summary -->
-<div align="center" border="1px">
+<div align="center">
 	<picture align="left">
 		<source width="47%" srcset="https://streak-stats.demolab.com?user=droubarka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
 		<img src="" />
