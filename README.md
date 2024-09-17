@@ -1,15 +1,14 @@
 <!-- Badges -->
 <div align="center">
 	<picture>
-		<source srcset="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
-		<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
-	</picture>
-	<picture>
 		<source srcset="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
 		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
 	</picture>
 	<a href="https://buymeacoffee.com/droubarka">
 		<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
+	</a>
+	<a href="https://github.com/droubarka/keynox">
+		<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
 	</a>
 	<br><br>
 </div>
