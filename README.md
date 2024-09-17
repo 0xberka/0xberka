@@ -1,8 +1,7 @@
 <div align="center">
 	<a href="https://github.com/droubarka/droubarka">
-		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0&animation=blink" />
+		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
 	</a>
-
 	<a href="https://buymeacoffee.com/droubarka">
 		<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
 	</a>
