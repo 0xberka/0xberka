@@ -1,25 +1,14 @@
+<!-- Badges -->
 <div align="center">
 	<picture>
 		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
-	</picture>
 	<a href="https://buymeacoffee.com/droubarka">
 		<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
 	</a>
-	<br>
-	<br>
+	</picture>
+	<br><br>
 </div>
-
-<!--
-<div align="center">
-	<p align="center"><b> VISITORS COUNTER 👽 </b></p>
-	<p align="center">
-		<img align="center" src="https://profile-counter.glitch.me/droubarka/count.svg"/>
-	</p>
-	<br/>
-</div>
--->
-<!-- Buy Me a Coffee -->
-
+## updated
 <!-- Contribution Graph -->
 <div align="center">
 	<picture>
