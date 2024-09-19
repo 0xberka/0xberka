@@ -1,15 +1,18 @@
 <!-- Badges -->
 <div align="center">
-	<a href="">
-		<img alt="#StandWithPalestine" src="/images/stand-with-palestine.svg">
-	</a>
+
+	<img alt="#StandWithPalestine" src="/images/stand-with-palestine.svg">
+
 	<picture>
 		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
 	</picture>
+
 	<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
+
 	<a href="https://buymeacoffee.com/droubarka">
 		<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
 	</a>
+
 	<br><br>
 </div>
 
