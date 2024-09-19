@@ -4,10 +4,9 @@
 	<picture>
 		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
 	</picture>
-	<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
-	<a href="https://buymeacoffee.com/droubarka">
-		<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
-	</a>
+	<picture>
+		<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
+	</picture>
 	<br><br>
 </div>
 
@@ -35,3 +34,9 @@
 	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=droubarka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" />
 	</picture>
 </div>
+
+<!-- Un/Stable Code -->
+
+<a href="https://buymeacoffee.com/droubarka">
+	<img alt="Buy me a coffee" src="https://img.shields.io/badge/BY_ME_-_A_COFFEE-brown?style=flat-square&logo=coffeescript" />
+</a>
