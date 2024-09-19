@@ -1,5 +1,6 @@
 <!-- Badges -->
 <div align="center">
+	<img alt="#StandWithPalestine" src="/images/stand-with-palestine.svg">
 	<picture>
 		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
 	</picture>
