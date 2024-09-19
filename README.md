@@ -1,11 +1,14 @@
+<style>
+a {
+	text-decoration: none;
+}
+</style>
+
 <!-- Badges -->
 <div align="center">
 	<img alt="#StandWithPalestine" src="/images/stand-with-palestine.svg">
-	<picture>
-		<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
-	</picture>
-	<picture>
-		<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
+	<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=droubarka&style=flat-square&label=Visitors&base=0" />
+	<img alt="Last commit" src="https://img.shields.io/github/last-commit/droubarka/keynox?style=flat-square" />
 	</picture>
 	<br><br>
 </div>
