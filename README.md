@@ -1,8 +1,6 @@
-<style>
-a {
-	text-decoration: none;
-}
-</style>
+<a href="#">
+	test
+</a>
 
 <!-- Badges -->
 <div align="center">
