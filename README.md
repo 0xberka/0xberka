@@ -3,7 +3,7 @@
 
 ### Hello, Friend!
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+I'm **Mohamed Ait Oubarka**, also known as **0xberka**. My interests revolve around **Cybersecurity**, **Ethical Hacking**, and **Linux Fundamentals**, where I enjoy exploring challenges and expanding my technical skills. I like working with **Scripting** and **Problem-Solving** as ways to deepen my understanding of security concepts. I'm passionate about **Cyber Defense**, **Continuous Learning**, and **Knowledge Sharing**, and my goal is to keep building, contributing, and growing within the cybersecurity community.
 
 [![#StandWithPalestine](/assets/stand-with-palestine.svg)](#StandWithPalestine)
 [![GPG](https://img.shields.io/badge/GPG-0xC39AE435AA5EDB24-black)](https://github.com/0xberka.gpg)
