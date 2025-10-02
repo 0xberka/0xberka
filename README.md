@@ -1,30 +1,10 @@
-<!-- Badges -->
-<div align="center">
-	<img alt="#StandWithPalestine" src="/images/stand-with-palestine.svg" />
-	<img alt="Visitors: +1" src="https://komarev.com/ghpvc/?username=0xberka&style=flat-square&label=Visitors&base=0" />
-	<!--img alt="Last commit" src="https://img.shields.io/github/last-commit/0xberka/keynox?style=flat-square" /-->
-	<br><br>
-</div>
 
-<!-- Contribution Graph -->
-<div align="center">
-	<picture>
-		<source srcset="https://github-readme-activity-graph.vercel.app/graph?username=0xberka&theme=react-dark&area=true&hide_border=false&hide_title=false&custom_title=Oubarka's+Contribution+Graph&radius=16" media="(prefers-color-scheme: dark)" />
-		<source srcset="https://github-readme-activity-graph.vercel.app/graph?username=0xberka&theme=github-compact&area=true&hide_border=false&hide_title=false&custom_title=Oubarka's+Contribution+Graph&radius=16&color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xberka&theme=github-compact&area=true&hide_border=false&hide_title=false&custom_title=Oubarka's+Contribution+Graph&radius=16&color=000000"/>
-	</picture>
-</div>
+<img align="left" src="/assets/awesome-linux/awesome-linux.gif">
 
-<!-- Profile Summary -->
-<div align="center">
-	<picture align="left">
-		<source width="47%" srcset="https://streak-stats.demolab.com?user=0xberka&theme=react&hide_border=true&background=0D1117&fire=EB0000&ring=EB0000" media="(prefers-color-scheme: dark)" />
-		<source width="47%" srcset="https://streak-stats.demolab.com?user=0xberka&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-		<img width="47%" src="https://streak-stats.demolab.com?user=0xberka&hide_border=true" />
-	</picture>
-	<picture align="left">
-		<source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0xberka&show_icons=true&theme=react&bg_color=0d1117&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" media="(prefers-color-scheme: dark)" />
-	    <source width="49%" srcset="https://github-readme-stats.vercel.app/api?username=0xberka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xberka&show_icons=true&rank_icon=github&custom_title=Oubarka's+Github+Stats&hide_border=true" />
-	</picture>
-</div>
+### Hello, Friend!
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+[![#StandWithPalestine](/assets/stand-with-palestine.svg)](#StandWithPalestine)
+[![GPG](https://img.shields.io/badge/GPG-0xC39AE435AA5EDB24-black)](https://github.com/0xberka.gpg)
+[![Ghosts](https://komarev.com/ghpvc/?username=0xberka&label=Ghosts&color=000000)](#Ghosts)
