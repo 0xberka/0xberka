@@ -1,5 +1,5 @@
 
-<img align="left" src="/assets/awesome-linux/awesome-linux.gif">
+<img align="center" src="/assets/awesome-linux/awesome-linux.gif">
 
 <!--
 ### Hello, Friend!
